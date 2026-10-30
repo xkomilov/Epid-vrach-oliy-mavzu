@@ -59,3 +59,11 @@
 - Gripp emlash kontingenti (60+, surunkali kasalligi borlar, tez-tez kasallanuvchilar, maktabgacha bolalar, xizmat ko'rsatuvchilar) SanQvaM 0239-07/3 jadvalidan olingan; jadval tuzilishi buzilgan, talqin ehtiyotkor. Emlash qamrovi maqsadli ko'rsatkichi topilmadi.
 - Darslik 2016 yilda nashr etilgan, unda 2019 dan keyingi koronavirus pandemiyasi ma'lumotlari yo'q. O'zbekistonda gripp kasallanish raqamlari 2005 yilgacha (grafikda).
 - 224-son buyruq matnida haftalik hisobot kuni OCR tufayli buzilgan, shuning uchun javoblarda keltirilmadi.
+
+### Umumiy mavzular (077, 078, 084, 099) bo'yicha eslatmalar
+- Emlash kalendari variantlari: SanQvaM 0239-07/3 (2017) VPCH 9 yoshda ko'rsatadi; kutubxonadagi sanasiz kalendar jadvalida (material 1420) VPCH 12–13 yoshda va faqat qizlar uchun, tug'ruqxonada OPV-0 ishlatilmasligi qayd etilgan. Bu jadvalning rasmiy hujjat ekanligi va sanasi tasdiqlanmagan; amaldagi kalendar uchun eng so'nggi rasmiy buyruqni lex.uz da tekshirish kerak.
+- Darslik DTP birinchi dozasini tug'ilgandan 3 oy o'tgach (15.3-bo'lim) va ko'k yo'tal bo'yicha 18 oylik revaksinatsiyani yozadi; SanQvaM kalendari 2/3/4 oylik va 16 oylik. Farq qayd etildi.
+- 813 (0239-07/4, 19.07.2021) kalendarga koronavirusga qarshi emlashni (18 yoshdan, xizmat ko'rsatish va boshqa sohalar xodimlari) qo'shgan; hozirgi holati tekshirilmagan.
+- Sariq isitma emlash yoshi 814 matnida «9 yillikdan» deb yozilgan (ehtimol 9 oylik) — tasdiqlanmagan.
+- Yuqumli kasallik aniqlanganda ishlar ketma-ketligi (077) mualliflik tizimlashtirishi; yagona milliy hujjat topilmadi (tasdiqlanmagan). Mamlakat ichida xabar berish muddatlari alohida buyruqlarda — ko'rib chiqilmadi.
+- Qonun raqamlari: so'nggi tahrirda foci chora-tadbirlari 32-modda, emlash 33-modda, dezinfeksiya 34-modda, majburiy ko'riklar 35-modda, gigienik o'qitish 36-modda.
