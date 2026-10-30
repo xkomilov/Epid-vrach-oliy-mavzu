@@ -67,3 +67,10 @@
 - Sariq isitma emlash yoshi 814 matnida «9 yillikdan» deb yozilgan (ehtimol 9 oylik) — tasdiqlanmagan.
 - Yuqumli kasallik aniqlanganda ishlar ketma-ketligi (077) mualliflik tizimlashtirishi; yagona milliy hujjat topilmadi (tasdiqlanmagan). Mamlakat ichida xabar berish muddatlari alohida buyruqlarda — ko'rib chiqilmadi.
 - Qonun raqamlari: so'nggi tahrirda foci chora-tadbirlari 32-modda, emlash 33-modda, dezinfeksiya 34-modda, majburiy ko'riklar 35-modda, gigienik o'qitish 36-modda.
+
+### Ichburug', vabo, gemofil infeksiya (069, 070, 092) bo'yicha eslatmalar
+- 436 (o'tkir ichak infeksiyalari yo'riqnomasi): kutubxona nomi «Buyruq № 122», 1-ilova matnida «125-son», 2-ilovada «122-son» deb yozilgan — raqam farqi qayd etildi.
+- 395 (vabo, 25-son buyruq): sarlavhada sana 25.01.2012, matn boshida «05 01 № 25»; ilovalar rus tilida; vaboga xos birlamchi tadbirlar (poliklinika vrachi) bo'yicha alohida bandlar ko'rib chiqilgan hujjatda aniq ajratilmagan — javobdagi vazifalar taqsimoti hujjat bo'limlaridan tizimlashtirilgan (qisman mualliflik talqini, tasdiqlanmagan).
+- Vabo: O'zbekiston hujjati aloqadorlarga profilaktik davolashni nazarda tutadi, JSST esa ommaviy antibiotik profilaktikasini tavsiya etmaydi (alohida: aloqadorlar uchun individual profilaktika masalasi JSST sahifasida ko'rib chiqilmagan) — farq qayd etildi.
+- Gemofil infeksiya: O'zbekiston kasallanish raqamlari topilmadi; CDC ma'lumotlari faqat qidiruv parchalari bo'yicha; aloqadorlarga kimyoprofilaktika bo'yicha milliy ko'rsatma topilmadi.
+- 077: SanQvaN 0090-25 55-band ro'yxatida tulyaremiya yo'q (Ku isitmasi o'pka shakli bor) — javobda shunga muvofiq tuzatildi.
