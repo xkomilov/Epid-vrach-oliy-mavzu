@@ -74,3 +74,10 @@
 - Vabo: O'zbekiston hujjati aloqadorlarga profilaktik davolashni nazarda tutadi, JSST esa ommaviy antibiotik profilaktikasini tavsiya etmaydi (alohida: aloqadorlar uchun individual profilaktika masalasi JSST sahifasida ko'rib chiqilmagan) — farq qayd etildi.
 - Gemofil infeksiya: O'zbekiston kasallanish raqamlari topilmadi; CDC ma'lumotlari faqat qidiruv parchalari bo'yicha; aloqadorlarga kimyoprofilaktika bo'yicha milliy ko'rsatma topilmadi.
 - 077: SanQvaN 0090-25 55-band ro'yxatida tulyaremiya yo'q (Ku isitmasi o'pka shakli bor) — javobda shunga muvofiq tuzatildi.
+
+### Ovqatdan zaharlanish, qoqshol, tabiiy o'choqli kasalliklar, Ku isitmasi, sariq isitma (079, 112, 115, 116, 132)
+- 115: Mirtazayev darsligi (2016) Qrim-Kongo gemorragik isitmasini O'zbekistonda «deyarli qayd etilmaydi» deydi, vazirlik buyrug'i (37-son, 2015) esa mavjud tabiiy o'choqlar va aniq reja haqida gapiradi — manbalar farq qiladi, ikkalasi javobda keltirilgan. Darslikdagi «uchramaydi» deb yozilgan kasalliklar (Yapon ensefaliti, G'arbiy Nil, kanali ensefalit, kana borrelioz, tsutsugamushi, leptospiroz) hozirgi holati tekshirilmagan.
+- 116: 517-materialdagi 6-son buyruq (05.01.2012) matni OCR tufayli aralashgan; koksiellyoz yo'riqnomasi bo'limlari (I–XIII) mantiqiy tartibda o'qildi. Emlash uchun vaksina nomi ko'rsatilmagan; CDC (Q-isitma) ma'lumotlari faqat qidiruv parchalari bo'yicha.
+- 132: sariq isitma bo'yicha manbalar farq qiladi: JSST — bir doza umr bo'yi, revaksinatsiya shart emas; SanQvaM/Saparov — 10 yilda bir marta/immunitet 10 yil; 1508 — 30–35 yil, ko'p mamlakatlarda har 10 yilda. Karantin: Saparov — 6 kun, 1508 — 9 kun. 1508 manbasi ilmiy darajada tekshirilmagan o'quv materiali.
+- 112: qoqshol bo'yicha O'zbekistonda yaralanishda shoshilinch profilaktika sxemasi hamda kasb xavf guruhlari ro'yxati ko'rib chiqilgan hujjatlarda topilmadi (tasdiqlanmagan).
+- 079: yiringli yarali xodimlarni ishdan chetlatish va gumon mahsulotni iste'moldan chiqarish qonuniy mexanizmi aniq hujjatda topilmadi.
