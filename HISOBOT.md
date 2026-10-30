@@ -1,7 +1,8 @@
-# Hisobot (001–050)
+# Hisobot (001–050, 052, 055, 057)
 
 ## Holat
-- Manba faylda 148 ta mavzu. Tayyor: 001–050 (50 ta fayl, nomi = manbadagi mavzu raqami).
+- Manba faylda 148 ta mavzu. Tayyor: 001–050 va 052, 055, 057 (53 ta fayl, nomi = manbadagi mavzu raqami). Qolgan 95 ta mavzu (051, 053, 054, 056, 058–148) hali yozilmagan.
+- 052, 055, 057 yangi: ular kutubxonadagi SSV buyrug'i №25/2012, ichak infeksiyalari yo'riqnomasi, 2019-yilgi avj olishlarni tekshirish rahbariyati va JSST sahifalariga tayanadi.
 - Oldingi sessiyada 001–049 yozilgan edi, ammo manbadagi №3 ("Epidemiologiyada qo'llaniladigan tahlillarining turlari") tushib qolgan va 003-fayldan boshlab raqamlar 1 ga siljigan edi. Tuzatildi: yangi 003 qo'shildi, eski 003–049 → 004–050 deb qayta nomlandi va sarlavha raqamlari to'g'rilandi.
 - 001–009 qayta yozildi (4–8 ta tekshirilgan manba, matn ichida [n] havolalar, raqamlangan ro'yxatlar). Eski variantlar git tarixida saqlangan (commit ddefdbc…f5a77f0).
 - 010–050 oldingi sessiyadan olingan; faqat shakli tuzatildi (nuqtali ro'yxatlar → raqamlangan, sarlavha raqami). Mazmuni qayta tekshirilmagan.
@@ -19,3 +20,5 @@
 - Prezident farmoyishi 29.01.2020: kutubxonada "PF-5537", matn "Farmoyish" deb nomlangan.
 - SanPiN 0280-09 (o'choqli dezinfeksiya) kutubxonada SanQvaN 0090-25 bilan almashtirilgan deb belgilangan.
 - O'tkir ichak kasalliklari bo'yicha 2023-yil tahlilida hisobot oyi ko'rsatilmagan.
+- SSV buyrug'i №25 (vabo): nusxada sana "25.01" va "05.01" ikki xil yozilgan; buyruq 1992-yildagi (kuchini yo'qotgan) qonunga havola qiladi; 280-sonli (11.09.2009) buyruq va SanPiN 0161-04 faqat havola sifatida, alohida tekshirilmagan.
+- Vabo laboratoriya ko'rsatmasi (177-buyruqqa 10-ilova): sana va raqam nusxada to'ldirilmagan.
