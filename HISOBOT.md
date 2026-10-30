@@ -1,8 +1,9 @@
-# Hisobot (tayyor: 108 ta fayl)
+# Hisobot (tayyor: 148 ta fayl)
 
 ## Holat
-- Manba faylda 148 ta mavzu. Tayyor 108 ta fayl (001–068, 076, 081, 083, 085, 087, 095, 098, 100, 102–111, 113–114, 117–131, 134–138); fayl nomi = manbadagi mavzu raqami. Qolgan 40 ta mavzu yozilmagan: 069–075, 077–080, 082, 084, 086, 088–094, 096–097, 099, 101, 112, 115–116, 132–133, 139–148.
-- 001–060 (051 dan tashqari) va keyin yozilgan fayllarda sarlavhasiz hajm 800 so'zdan kam emas (qat'iy tekshirildi), manbalar kamida 5 ta, har bir manbaga matnda [n] havola bor, sanaladigan qismlar raqamlangan ro'yxatda. Ayrim fayllar 950 so'zdan oshgan (foydalanuvchi ko'rsatmasiga ko'ra qisqartirilmadi).
+- Manba faylda 148 ta mavzu. Hammasi tayyor: javoblar/001.docx – 148.docx (fayl nomi = manbadagi mavzu raqami), shuningdek Epidemiologiya_javoblar.zip. Yozilmagan mavzu yo'q.
+
+- 001–060 (051 dan tashqari) va keyin yozilgan fayllarda sarlavhasiz hajm 800 so'zdan kam emas (qat'iy tekshirildi), manbalar kamida 5 ta, har bir manbaga matnda [n] havola bor, sanaladigan qismlar raqamlangan ro'yxatda. 14 ta fayl 950 so'zdan oshgan (foydalanuvchi ko'rsatmasiga ko'ra qisqartirilmadi).
 - Oldingi sessiyada №3 mavzu tushib qolgan va raqamlar siljigan edi — tuzatilgan (003 yangi; eski 003–049 → 004–050).
 - 010–050 oldingi sessiya matni asosida; ularga yangi bo'limlar va tekshirilgan manbalar qo'shildi, tasdiqlanmagan manbalar olib tashlandi yoki almashtirildi.
 
