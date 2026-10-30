@@ -1,7 +1,7 @@
-# Hisobot (tayyor: 001–050, 052–060)
+# Hisobot (tayyor: 001–062, 064–065)
 
 ## Holat
-- Manba faylda 148 ta mavzu. Tayyor 59 ta fayl (001–050, 052–060); fayl nomi = manbadagi mavzu raqami. Qolgan 89 ta mavzu (051, 061–148) yozilmagan.
+- Manba faylda 148 ta mavzu. Tayyor 59 ta fayl (001–050, 052–060); fayl nomi = manbadagi mavzu raqami. Qolgan mavzular: 063, 066–148 yozilmagan.
 - 001–060 (051 dan tashqari): barcha fayllarda sarlavhasiz hajm 800 so'zdan kam emas, manbalar kamida 5 ta, har bir manbaga matnda [n] havola bor, sanaladigan qismlar raqamlangan ro'yxatda. Ayrim fayllar 950 so'zdan oshgan (foydalanuvchi ko'rsatmasiga ko'ra qisqartirilmadi).
 - Oldingi sessiyada №3 mavzu tushib qolgan va raqamlar siljigan edi — tuzatilgan (003 yangi; eski 003–049 → 004–050).
 - 010–050 oldingi sessiya matni asosida; ularga yangi bo'limlar va tekshirilgan manbalar qo'shildi, tasdiqlanmagan manbalar olib tashlandi yoki almashtirildi.
@@ -25,3 +25,9 @@
 - 056/046 (shigellyoz): Flekssner 2a ning 5000–10 000 hujayrasi (darslik) va 10–200 organizm (CDC) — tadqiqot sharoitlari turli, aniq doza bitta manbaga tayanib keltirilmadi.
 - 060/054 (VGA): yashirin davr taqdimotda 14–50 kun, JSST bo'yicha 14–28 kun; 149-son (25.04.2014) buyruq nusxasi o'qilmaydi; yuqish omillari diagrammasi raqamlari yo'q.
 - 059 (rotavirus): Qoraqalpog'iston bo'yicha 2004–2007 yillar ma'lumoti darslikdan (ikkilamchi); O'zbekiston rasmiy statistikasi to'liq emas.
+
+## Qo'shimcha eslatmalar (051, 061, 062, 064, 065)
+- 061: botulinum toksin turlari soni manbalarda farq qiladi (JSST A–G, MSD A–H, qo'llanma A–F,I).
+- 051: OIK statistikasi bo'yicha ehtiyotkorlik izohi (aniq yil/oy manbada ko'rsatilmagan).
+- 062/065: 3-ilova (salmonellyoz) manbasi — buyruq matnidagi №122/125 farqi saqlanadi.
+- 064: polio ma'lumotlari asosan Mirtazayev darsligi va JSST ma'lumotiga tayanadi.
