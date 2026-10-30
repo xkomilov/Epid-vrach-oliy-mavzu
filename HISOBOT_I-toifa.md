@@ -1,0 +1,9 @@
+# Hisobot: «Birinchi malaka toifasi» savollari (Epid-vrach-I-toifa.docx)
+
+## Usul
+- Manba faylda 146 ta og'zaki savol. Har biriga alohida fayl: `I-toifa/NNN.docx` (NNN = manbadagi savol raqami). Arxiv: `I-toifa_javoblar.zip`.
+- Talablar oldingi to'plam bilan bir xil: sarlavhasiz hajm kamida 800 so'z, 950 dan oshsa qisqartirilmaydi, kamida 5 manba, har bir manbaga matnda [n] havola, sanaladigan qismlar raqamlangan ro'yxatda, tasdiqlanmagan ma'lumot «tasdiqlanmagan» deb belgilanadi.
+- Mazmunan oldingi (148 mavzu) to'plamdagi savol bilan bir xil bo'lgan savollar uchun tekshirilgan matn yangi raqam va yangi sarlavha bilan qayta chiqarildi (quyidagi jadval). Qolgan savollar yangidan yozildi.
+
+## Qayta chiqarilgan fayllar (yangi raqam ← oldingi to'plam raqami)
+004 ← 005, 006 ← 042, 007 ← 011, 011 ← 018, 012 ← 019, 013 ← 020, 014 ← 023, 019 ← 022, 022 ← 041, 024 ← 027, 025 ← 028, 028 ← 015, 029 ← 034, 030 ← 025, 031 ← 031, 032 ← 014, 033 ← 037, 040 ← 016, 041 ← 029, 043 ← 013, 044 ← 032, 045 ← 012, 046 ← 033, 047 ← 024, 049 ← 026, 050 ← 021, 051 ← 010, 053 ← 035, 056 ← 004, 057 ← 006, 072 ← 050, 073 ← 051, 074 ← 043, 075 ← 009, 076 ← 044, 077 ← 045, 078 ← 048, 088 ← 123, 130 ← 144, 135 ← 133, 137 ← 141
