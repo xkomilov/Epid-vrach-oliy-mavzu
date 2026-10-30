@@ -81,3 +81,16 @@
 - 132: sariq isitma bo'yicha manbalar farq qiladi: JSST — bir doza umr bo'yi, revaksinatsiya shart emas; SanQvaM/Saparov — 10 yilda bir marta/immunitet 10 yil; 1508 — 30–35 yil, ko'p mamlakatlarda har 10 yilda. Karantin: Saparov — 6 kun, 1508 — 9 kun. 1508 manbasi ilmiy darajada tekshirilmagan o'quv materiali.
 - 112: qoqshol bo'yicha O'zbekistonda yaralanishda shoshilinch profilaktika sxemasi hamda kasb xavf guruhlari ro'yxati ko'rib chiqilgan hujjatlarda topilmadi (tasdiqlanmagan).
 - 079: yiringli yarali xodimlarni ishdan chetlatish va gumon mahsulotni iste'moldan chiqarish qonuniy mexanizmi aniq hujjatda topilmadi.
+
+### OIV/OITS bloki (133, 139–148) bo'yicha eslatmalar
+- Vazirning 2018-yil 336-son buyrug'i 2021-yil 6-sentabrdagi 219-son buyruqning 9-bandi bilan o'z kuchini yo'qotgan deb e'lon qilingan; 139–143 dagi havolalar shunga ko'ra izohlangan. 2015-yilgi 123-son buyruqning amaldagi holati tasdiqlanmadi.
+- OIV to'g'risidagi Qonunning raqami (O'RQ-353, 23.09.2013) faqat taqdimotdan olingan, LexUZ matnida tasdiqlanmadi. Qonun matni 2013-yil 7-iyun (Qonunchilik palatasi) va 22-avgust (Senat) sanalarini ko'rsatadi.
+- 88-son buyruq (30.03.2012) matni kutubxonada yo'q; 1384-taqdimot shunga tayanadi va 2018-yilgi 277-son protokol hamda JSST tavsiyalariga nisbatan eskirgan (OBYuP sxemalari, musbat PZRni 2 haftadan keyin qayta tekshirish va 277-protokoldagi 5–7 kun).
+- Tibbiy ko'rik tartibi (ro'yxat raqami 2584, 15.05.2014) va taqiqlangan kasblar ro'yxati (3497, 19.02.2024) faqat boshqa hujjatlardagi havolalar orqali; PQ-3493, PQ-3800, PQ-14, PQ-1023 mazmuni ijro buyruqlaridan xulosa qilingan, qarorlar matni ko'rilmadi.
+- Darslik (Mirtazayev, 2016): onadan bolaga transplatsentar yuqish 80–90%, tug'ruq/emizish 5–10% deyiladi, taqdimot va protokolda esa jami xavf ~30% (homiladorlik ~15%, tug'ruq ~5%, emizish ~10%) — manbalar orasida farq; darslikda zidovudin (AZT) bilan eski sxema va 2005–2009 yillar ma'lumotlari keltirilgan.
+- ARV-terapiyani boshlash mezonlari 2018 yilgi protokolda keltirilgan; JSSTning hozirgi tavsiyasi (barcha OIV bilan yashovchilarga CD4 darajasidan qat'i nazar davolash) bilan taqqoslash alohida tekshirilishi kerak.
+- SanQvaM 0187-05 (2005) 1999-yilgi, endi kuchsiz qonunga havola qiladi.
+- 146: O'zbekiston bo'yicha so'nggi yillar (2013 yildan keyingi) epidemiologik ko'rsatkichlari kutubxonada topilmadi — raqamlar 2009–2013 yillarga oid. Stigmaning tekshiruv qamroviga ta'siri bo'yicha raqamlar yo'q.
+- 147: darslikdagi jadval (sperma 10–50, qin ajratmasi 1 birlik/ml) va 2008-yilgi 4-son buyruq protokoli (sperma/qin suyuqligi kasbiy kontaktda ahamiyatsiz) turli kontekstga tegishli; KKP protokoli 2008 yilga oid, hozirgi ARV sxemasi keltirilmadi.
+- 148: musbat PZRni tasdiqlash muddati — taqdimotda 2 hafta, protokolda 5–7 kun; amaldagi sifatida 277-son protokol olindi. Postnatal yuqish mezoni protokolda alohida yozilmagan (muallif xulosasi, tasdiqlanmagan).
+- 144: JSST va NIH sahifalaridagi 15–45% va <1% raqamlari faqat qidiruv parchasi bo'yicha tasdiqlangan.
