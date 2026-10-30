@@ -46,3 +46,10 @@
 - Emlash jadvali bo'yicha manbalar farqi: Mirtazayev darsligi (2016) AKDS ni 2 oylikdan 1 oy oralig'ida 3 marta va 18 oylikda revaksinatsiya deb beradi; SanQvaM 0239-07/3 (2017) kalendari esa pentavalent 2/3/4 oylik, AKDS-4 16 oylikda, ADS-M 7 va 16 yoshda. Javoblarda SanQvaM amalda deb olindi.
 - Aloqadorlarga antibiotik profilaktikasi (CDC: 21 kun ichida) milliy hujjatlarda topilmadi — tasdiqlanmagan; kuzatuv muddatlari talqini mualliflik xulosasi.
 - 091: kattalar uchun 10 yillik ADS-M revaksinatsiyasi milliy hujjatda topilmadi (tasdiqlanmagan).
+
+### Parotit, suvchechak, meningokokk (072, 097, 075, 080, 082, 086, 101) bo'yicha eslatmalar
+- Parotit: bemorni ajratish muddati darslikda kamida 9 kun, CDC da (tibbiyot xodimlari uchun) parotit boshlanganidan 5 kun; aloqadorlarni 21 kun kuzatish darslikdan. O'zbekiston uchun rasmiy me'yor topilmadi (tasdiqlanmagan). 814 dagi parotit o'chog'i bo'yicha qator buzilgan matn, talqin ehtiyotkor.
+- Suvchechak: O'zbekiston kalendarida (2017) rejali emlash yo'q; keyingi yillardagi o'zgarish aniqlanmadi (tasdiqlanmagan). CDC samaradorlik va VariZIG ma'lumotlari faqat qidiruv parchalari bo'yicha.
+- Meningokokk: darslik o'choqda aloqadorlarni tashuvchilikka tekshirishni ko'pchilik mamlakatlarda maqsadga muvofiq emas deydi, JSST va CDC esa yaqin aloqadorlarga antibiotik profilaktikasini tavsiya qiladi — farq qayd etildi; milliy sxema topilmadi (tasdiqlanmagan).
+- 814 dagi epidemik ko'rsatma jadvali "guruh → vaksina → yosh" tartibida; meningokokk vaksinasi 1 yoshdan, vaksina turiga qarab 3 yildan keyin qayta emlash. Jadval tuzilishi buzilgani sababli talqin ehtiyotkor.
+- Aloqadorlarni kuzatish va 24 soatlik rejalar kabi tashkiliy muddatlar mualliflik taklifi sifatida "tasdiqlanmagan" deb belgilangan.
