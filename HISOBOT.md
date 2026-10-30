@@ -53,3 +53,9 @@
 - Meningokokk: darslik o'choqda aloqadorlarni tashuvchilikka tekshirishni ko'pchilik mamlakatlarda maqsadga muvofiq emas deydi, JSST va CDC esa yaqin aloqadorlarga antibiotik profilaktikasini tavsiya qiladi — farq qayd etildi; milliy sxema topilmadi (tasdiqlanmagan).
 - 814 dagi epidemik ko'rsatma jadvali "guruh → vaksina → yosh" tartibida; meningokokk vaksinasi 1 yoshdan, vaksina turiga qarab 3 yildan keyin qayta emlash. Jadval tuzilishi buzilgani sababli talqin ehtiyotkor.
 - Aloqadorlarni kuzatish va 24 soatlik rejalar kabi tashkiliy muddatlar mualliflik taklifi sifatida "tasdiqlanmagan" deb belgilangan.
+
+### Gripp va O'RK (074, 093, 094, 096) bo'yicha eslatmalar
+- Darslik (2016) gripp bemorini ajratishni epidemiyaga qarshi chora sifatida yetarli emas deb baholaydi; milliy 224/236-son buyruqlari va PQ-3729 esa emlash, shtablar va zaxiralar bo'yicha tashkiliy talablarni belgilaydi. Aloqadorlar kuzatuv muddati va mavsumiy gripp uchun ommaviy antivirus profilaktikasi milliy hujjatlarda topilmadi (tasdiqlanmagan). CDC postekspozitsion profilaktika ma'lumoti faqat yangi gripp A viruslari uchun va faqat qidiruv parchasi bo'yicha.
+- Gripp emlash kontingenti (60+, surunkali kasalligi borlar, tez-tez kasallanuvchilar, maktabgacha bolalar, xizmat ko'rsatuvchilar) SanQvaM 0239-07/3 jadvalidan olingan; jadval tuzilishi buzilgan, talqin ehtiyotkor. Emlash qamrovi maqsadli ko'rsatkichi topilmadi.
+- Darslik 2016 yilda nashr etilgan, unda 2019 dan keyingi koronavirus pandemiyasi ma'lumotlari yo'q. O'zbekistonda gripp kasallanish raqamlari 2005 yilgacha (grafikda).
+- 224-son buyruq matnida haftalik hisobot kuni OCR tufayli buzilgan, shuning uchun javoblarda keltirilmadi.
